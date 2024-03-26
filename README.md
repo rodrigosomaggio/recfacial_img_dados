@@ -1,2 +1,2 @@
 # recfacial_img_dados
-<img scr="Inputs/mensagem_escrita.jpg">
+<img scr="Outputs/mensagem_escrita.jpg"/>
